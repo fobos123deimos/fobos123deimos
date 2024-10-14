@@ -4,12 +4,12 @@ Hi, I'm Matheus, a very communicative scientist who believes that this is a rele
 💻⚛️ Computational Physics
 ---
 
-I'm passionate about the idea of ​​being able to simulate natural phenomena from my small laptop on the table in my room, it's like having a small part of the world in my private world. I am currently finishing my master's project in the area of ​​quantum computing simulation. This project is focused on developing an open-source scientific package for the fast and accurate simulation of the time-independent wavefunction of a Quantum Harmonic Oscillator, a model widely used in Photonic Quantum Computing. The name of this package is [Fast Wave](https://pypi.org/project/fast-wave/).
+I'm passionate about simulating natural phenomena from my small laptop on the table in my room, it's like having a small part of the world in my private world. I am currently finishing my master's project in the area of ​​quantum computing simulation. This project is focused on developing an open-source scientific package for the fast and accurate simulation of the time-independent wavefunction of a Quantum Harmonic Oscillator, a model widely used in Photonic Quantum Computing. The name of this package is [Fast Wave](https://pypi.org/project/fast-wave/).
 
 💻🎮 Game Development
 ---
 
-I currently have a startup with my friends, which is part of the [PEPITE Normandie Incubator in France](https://www.linkedin.com/company/pepite-normandie/posts/?feedView=all), in the gaming area, named [SeaFortress](https://beacons.ai/seafortress/home). It is focused on the use of Artificial Intelligence in computer games. We already have games published on Steam and have participated twice in international indie game competitions, improving our ranking. This is one of our games on Steam: [EnjoyTyping](https://store.steampowered.com/agecheck/app/1956410/):
+Currently, I am a partner in a startup with my friends, which is part of the [PEPITE Normandie Incubator in France](https://www.linkedin.com/company/pepite-normandie/posts/?feedView=all), in the gaming area, named [SeaFortress](https://beacons.ai/seafortress/home). It is focused on the use of Artificial Intelligence in computer games. We already have games published on Steam and have participated twice in international indie game competitions, improving our ranking. This is one of our games on Steam: [EnjoyTyping](https://store.steampowered.com/agecheck/app/1956410/):
 
 - [FluffeyPanda's World](https://www.youtube.com/watch?v=odeQ9Qs_zio&t=14s)
 
@@ -23,7 +23,7 @@ I handle all aspects of Artificial Intelligence (Machine Learning and Deep Learn
 💻🧠 Artificial Intelligence
 ---
 
-I have a lot of experience with research in artificial intelligence, as I have been researching in the area since I entered university. After two years of Scientific Initiation scholarship, two years of project scholarship, four years as a research volunteer, and a few months as an AI developer, I accumulated some publications and works in the area:
+I have a lot of experience with artificial intelligence research, as I have been researching this area since I entered university. After two years of Scientific Initiation scholarship, two years of project scholarship, four years as a research volunteer, and a few months as an AI developer, I accumulated some publications and works in the area:
 
 - *Data Science Applied to Smart Farming*: CORDEIRO, MATHEUS; MARKERT, CATHERINE; ARAÚJO, SAYONARA S.; CAMPOS, NÍDIA G.S.; GONDIM, RUBENS S.; DA SILVA, TICIANA L. COELHO; DA ROCHA, ATSLANDS R. . **Towards smart farming: Fog-enabled intelligent irrigation system using deep neural networks**. Future Generation Computer Systems, v. 129, p. 115-124, 2021. ([DOI](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004428?via%3Dihub))
 
