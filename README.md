@@ -33,3 +33,7 @@ I have a lot of experience with research in artificial intelligence, as I have b
 
 - *Trajectory Classification*: FERNANDES DE MACÊDO, JOSÉ ; CORDEIRO, MATHEUS ; COELHO DA SILVA, TICIANA ; A. DE FREITAS, NICKSSON ; MELO JUNIOR, LEOPOLDO . **Using Deep Learning for Trajectory Classification**. In: 13th International Conference on Agents and Artificial Intelligence, 2021, Online Streaming. Proceedings of the 13th International Conference on Agents and Artificial Intelligence, 2021. v. 2. p. 664-671. ([DOI](https://www.scitepress.org/Link.aspx?doi=10.5220/0010227906640671))
 
+Stats :man_technologist:
+---
+
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=fobos123deimos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
