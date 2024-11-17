@@ -17,6 +17,7 @@ We are developing a second game that is the first to use Unity's newest library 
 
 - [GDC 2024](https://www.linkedin.com/feed/update/urn:li:activity:7176392039217934336/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7176392039217934336%29)
 - [UnityChannel](https://www.youtube.com/watch?v=7uU_TxSyINI&t=787s)
+- [Unity Unite](https://www.youtube.com/watch?v=T-sbHvDF6Bw&t=474s)
   
 I handle all aspects of Artificial Intelligence (Machine Learning and Deep Learning). Our motto is: Strong Games with Smooth Gameplays, and our guiding principle is to adapt our work to our professional lives so that both can flow perfectly. The startup adapts to life and not the other way around; both should yield results.
 
