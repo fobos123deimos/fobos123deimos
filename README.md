@@ -9,6 +9,20 @@
 
 I'm a very communicative scientist who believes that this is a relevant virtue not only for research teams but also for development teams, as communication, for teamwork, is essential. However, I consider curiosity to be my fundamental characteristic and, like a good scientist, the effort within that curiosity 🔭🌱.
 
+---
+
+#### 🔥 I'm usually programming in one of these languages:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=python&sort=)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=r&sort=)
+[![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=sql&sort=)
+[![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=c%2B%2B&sort=)
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=matlab&sort=)
+[![Wolfram](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolfram&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=wolfram&sort=)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=arduino&sort=)
+[![ASM](https://img.shields.io/badge/Assembly-333333?style=flat-square)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=assembly&sort=)
+
+---
+
 💻⚛️ Computational Physics
 ---
 
