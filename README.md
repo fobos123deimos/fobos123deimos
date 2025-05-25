@@ -1,5 +1,13 @@
+# Hi, I'm Matheus 👨‍🔬
 
-Hi, I'm Matheus, a very communicative scientist who believes that this is a relevant virtue not only for research teams but also for development teams, as communication, for teamwork, is essential. However, I consider curiosity to be my fundamental characteristic and, like a good scientist, the effort within that curiosity 🔭🌱.
+[![Website Badge](https://img.shields.io/badge/MC-Website-333333?style=for-the-badge&labelColor=333333)](https://matheuscordeiro.com)
+[![CV Badge](https://img.shields.io/badge/-CV-D14836?style=for-the-badge&logo=ReadTheDocs&logoColor=white)](https://github.com/fobos123deimos/fobos123deimos/blob/main/MatheusCordeiroCv.pdf)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-cordeiro-meng-453373ba/)
+[![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-5318-5158)
+
+---
+
+I'm a very communicative scientist who believes that this is a relevant virtue not only for research teams but also for development teams, as communication, for teamwork, is essential. However, I consider curiosity to be my fundamental characteristic and, like a good scientist, the effort within that curiosity 🔭🌱.
 
 💻⚛️ Computational Physics
 ---
