@@ -15,10 +15,11 @@ I'm a very communicative scientist who believes that this is a relevant virtue n
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=python&sort=)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=r&sort=)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=latex)
 [![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=sql&sort=)
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=csharp&sort=)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=unity&sort=)
-[![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=c%2B%2B&sort=)
+[![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://github.com/fobos123deimos?tab=repositories&q=c)
 [![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=matlab&sort=)
 [![Wolfram](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolfram&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=wolfram&sort=)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=arduino&sort=)
