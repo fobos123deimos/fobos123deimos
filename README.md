@@ -22,6 +22,8 @@
   </a>
 </p>
 
+---
+
 <img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321" style="margin-left: 150px; margin-bottom: 100px;">
 
 
@@ -45,7 +47,7 @@ I'm a very communicative scientist who believes that this is a relevant virtue n
 
 
 ## 💻⚛️ Computational Physics
----
+
 
 I am passionate about simulating natural phenomena from my small laptop — it's like having a small part of the universe inside my room.
 
@@ -54,7 +56,7 @@ My latest project focused on the development of an open-source scientific packag
 ---
 
 ## 💻🎮 Game Development
----
+
 
 I am the co-founder of an indie game and AI studio called [**SeaFortress**](https://beacons.ai/seafortress/home), part of the [**PEPITE Normandie Incubator**](https://www.linkedin.com/company/pepite-normandie/posts/?feedView=all).
 
@@ -74,7 +76,7 @@ I handle all AI-related aspects (Machine Learning and Deep Learning). Our philos
 ---
 
 ## 💻🧠 Artificial Intelligence and Data Science
----
+
 
 My journey in Artificial Intelligence and Data Science blends research, applied development, and production-ready solutions.
 
