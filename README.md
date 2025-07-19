@@ -1,17 +1,36 @@
-# Hi, I'm Matheus 👨‍🔬
+<p align="center">
+  <a href="https://github.com/fobos123deimos">
+    <img src="https://github.com/user-attachments/assets/fe0c163b-9fa3-4ec5-8e32-6fcc829a0fe1" alt="Radiação Eletromagnética">
+  </a>
+</p>
 
-[![Website Badge](https://img.shields.io/badge/MC-Website-333333?style=for-the-badge&labelColor=333333)](https://matheuscordeiro.com)
-[![CV Badge](https://img.shields.io/badge/-CV-D14836?style=for-the-badge&logo=ReadTheDocs&logoColor=white)](https://github.com/fobos123deimos/fobos123deimos/blob/main/MatheusCordeiroCv.pdf)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-cordeiro-meng-453373ba/)
-[![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-5318-5158)
+<h1 align="center">Hi, I'm Matheus Gomes Cordeiro 👨‍🔬</h1>
+<h3 align="center">I'm a communicative scientist, driven by curiosity and effort</h3>
 
----
+<p align="center">
+  <a href="https://matheuscordeiro.com">
+    <img src="https://img.shields.io/badge/MC-Website-333333?style=for-the-badge&labelColor=333333" alt="Website Badge">
+  </a>
+  <a href="https://github.com/fobos123deimos/fobos123deimos/blob/main/MatheusCordeiroCv.pdf">
+    <img src="https://img.shields.io/badge/-CV-D14836?style=for-the-badge&logo=ReadTheDocs&logoColor=white" alt="CV Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-cordeiro-meng-453373ba/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin Badge">
+  </a>
+  <a href="https://orcid.org/0000-0001-5318-5158">
+    <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge">
+  </a>
+</p>
+
+<img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321">
+
+
 
 I'm a very communicative scientist who believes that this is a relevant virtue not only for research teams but also for development teams, as communication, for teamwork, is essential. However, I consider curiosity to be my fundamental characteristic and, like a good scientist, the effort within that curiosity 🔭🌱.
 
----
 
-#### 🔥 I'm usually programming in one of these languages:
+
+### 🔥 I'm usually programming in one of these languages:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=python&sort=)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=r&sort=)
@@ -25,7 +44,6 @@ I'm a very communicative scientist who believes that this is a relevant virtue n
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=arduino&sort=)
 [![ASM](https://img.shields.io/badge/Assembly-333333?style=flat-square)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=assembly&sort=)
 
----
 
 ## 💻⚛️ Computational Physics
 ---
@@ -83,6 +101,5 @@ This experience combines **academic rigor with real-world AI**, delivering solut
 ---
 
 ## 📊 Stats :man_technologist:
----
 
 [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=fobos123deimos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
