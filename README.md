@@ -112,6 +112,8 @@ This experience combines **academic rigor with real-world AI**, delivering solut
 
 ## 📊 Stats :man_technologist:
 
+
+
 <div align="center">
   <table>
     <tr>
@@ -130,12 +132,5 @@ This experience combines **academic rigor with real-world AI**, delivering solut
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fobos123deimos" alt="fobos123deimos" />
 </p>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fobos123deimos/fobos123deimos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fobos123deimos/fobos123deimos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fobos123deimos/fobos123deimos/output/pacman-contribution-graph.svg">
-</picture>
 
 
