@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321" style="margin-left: 20px; margin-top: 10px; margin-bottom: 10px;">
+<img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321" style="margin-left: 250px; margin-bottom: 100px;">
 
 
 I'm a very communicative scientist who believes that this is a relevant virtue not only for research teams but also for development teams, as communication, for teamwork, is essential. However, I consider curiosity to be my fundamental characteristic and, like a good scientist, the effort within that curiosity 🔭🌱.
