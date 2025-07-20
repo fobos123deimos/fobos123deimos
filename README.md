@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321" style="margin-left: 250px; margin-bottom: 100px;">
+<img align="right" alt="Coding" width="320" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321" style="margin-left: 250px; margin-bottom: 100px;">
 
 
 <div style="border: 1px solid #ccc; padding: 15px; margin: 15px 0; border-radius: 10px; background-color: #f9f9f9; text-align: justify;">
