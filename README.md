@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Matheus Gomes Cordeiro 👨‍🔬</h1>
-<h3 align="center">I'm a communicative scientist, driven by curiosity and effort</h3>
+<h3 align="center">I'm a clear-thinking scientist, driven by exploration and consistent effort</h3>
 
 <p align="center">
   <a href="https://matheuscordeiro.com">
