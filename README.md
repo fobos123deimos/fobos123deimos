@@ -114,7 +114,7 @@ This experience combines **academic rigor with real-world AI**, delivering solut
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fobos123deimos&show_icons=true&theme=radical" alt="Matheus's GitHub stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fobos123deimos&layout=compact&card_width=400" alt="Most Used Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fobos123deimos&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
 
