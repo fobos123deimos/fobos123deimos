@@ -60,7 +60,8 @@ My latest project focused on the development of an open-source scientific packag
 
 ## 💻🎮 Game Development
 
-<img align="right" alt="Coding" width="310" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321" style="margin-left: 250px; margin-bottom: 100px;">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/f99e84c7-0521-4a6d-a00f-f5ad5ab9785c" style="margin-left: 250px; margin-bottom: 100px;">
+
 
 <div style="border: 1px solid #ccc; padding: 15px; margin: 15px 0; border-radius: 10px; background-color: #f9f9f9; text-align: left; max-width: 800px;">
   I am the co-founder of an indie game and AI studio called <a href="https://beacons.ai/seafortress/home"><strong>SeaFortress</strong></a>, part of the <a href="https://www.linkedin.com/company/pepite-normandie/posts/?feedView=all"><strong>PEPITE Normandie Incubator</strong></a>.<br><br>
