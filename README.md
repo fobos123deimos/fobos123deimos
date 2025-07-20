@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="310" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321" style="margin-left: 250px; margin-bottom: 100px;">
+<img align="right" alt="Coding" width="320" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321" style="margin-left: 250px; margin-bottom: 100px;">
 
 
 <div style="border: 1px solid #ccc; padding: 15px; margin: 15px 0; border-radius: 10px; background-color: #f9f9f9; text-align: justify;">
@@ -48,6 +48,8 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=arduino&sort=)
 [![ASM](https://img.shields.io/badge/Assembly-333333?style=flat-square)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=assembly&sort=)
 
+<br><br>
+<br><br>
 
 ## 💻⚛️ Computational Physics
 
@@ -60,21 +62,26 @@ My latest project focused on the development of an open-source scientific packag
 
 ## 💻🎮 Game Development
 
+<img align="right" alt="Coding" width="310" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321" style="margin-left: 250px; margin-bottom: 100px;">
 
-I am the co-founder of an indie game and AI studio called [**SeaFortress**](https://beacons.ai/seafortress/home), part of the [**PEPITE Normandie Incubator**](https://www.linkedin.com/company/pepite-normandie/posts/?feedView=all).
+<div style="border: 1px solid #ccc; padding: 15px; margin: 15px 0; border-radius: 10px; background-color: #f9f9f9; text-align: left; max-width: 800px;">
+  I am the co-founder of an indie game and AI studio called <a href="https://beacons.ai/seafortress/home"><strong>SeaFortress</strong></a>, part of the <a href="https://www.linkedin.com/company/pepite-normandie/posts/?feedView=all"><strong>PEPITE Normandie Incubator</strong></a>.<br><br>
 
-We develop indie games with a strong focus on integrating Artificial Intelligence into gameplay and mechanics. Our games are published on Steam, and we have participated twice in international indie game competitions.
+  We develop indie games with a strong focus on integrating Artificial Intelligence into gameplay and mechanics. Our games are published on Steam, and we have participated twice in international indie game competitions.
+  <ul>
+    <li><a href="https://store.steampowered.com/agecheck/app/1956410/"><strong>EnjoyTyping (Steam)</strong></a></li>
+    <li><a href="https://www.youtube.com/watch?v=odeQ9Qs_zio&t=14s"><strong>FluffeyPanda's World (Gameplay)</strong></a></li>
+  </ul>
 
-- [**EnjoyTyping (Steam)**](https://store.steampowered.com/agecheck/app/1956410/)
-- [**FluffeyPanda's World (Gameplay)**](https://www.youtube.com/watch?v=odeQ9Qs_zio&t=14s)
+  We're currently developing <a href="https://store.steampowered.com/app/2671760/Plinio_Needs_a_Hand/"><strong>Plinio Needs a Hand</strong></a>, the first game to use <strong>Unity Sentis</strong>, Unity’s AI library for Computer Vision. This game was showcased at:
+  <ul>
+    <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7176392039217934336/"><strong>GDC 2024</strong></a></li>
+    <li><a href="https://www.youtube.com/watch?v=7uU_TxSyINI&t=787s"><strong>Unity Channel (YouTube)</strong></a></li>
+    <li><a href="https://www.youtube.com/watch?v=T-sbHvDF6Bw&t=474s"><strong>Unity Unite</strong></a></li>
+  </ul>
 
-We're currently developing [**Plinio Needs a Hand**](https://store.steampowered.com/app/2671760/Plinio_Needs_a_Hand/), the first game to use **Unity Sentis**, Unity’s AI library for Computer Vision. This game was showcased at:
-
-- [**GDC 2024**](https://www.linkedin.com/feed/update/urn:li:activity:7176392039217934336/)
-- [**Unity Channel (YouTube)**](https://www.youtube.com/watch?v=7uU_TxSyINI&t=787s)
-- [**Unity Unite**](https://www.youtube.com/watch?v=T-sbHvDF6Bw&t=474s)
-
-I handle all AI-related aspects (Machine Learning and Deep Learning). Our philosophy is: **"Strong Games with Smooth Gameplays"**, and we believe that work should adapt to life, not the other way around.
+  I handle all AI-related aspects (Machine Learning and Deep Learning). Our philosophy is: <strong>"Strong Games with Smooth Gameplays"</strong>, and we believe that work should adapt to life, not the other way around.
+</div>
 
 ---
 
