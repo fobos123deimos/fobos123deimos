@@ -112,11 +112,22 @@ This experience combines **academic rigor with real-world AI**, delivering solut
 
 ## 📊 Stats :man_technologist:
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fobos123deimos&show_icons=true&theme=radical" alt="Matheus's GitHub stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fobos123deimos&layout=compact&card_width=400" alt="Most Used Languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fobos123deimos" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=fobos123deimos&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fobos123deimos&layout=compact&card_width=400" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+<!-- Segunda linha: GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fobos123deimos" alt="fobos123deimos" />
+</p>
 
 
