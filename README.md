@@ -41,8 +41,6 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=r&sort=)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=latex)
 [![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=sql&sort=)
-[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=csharp&sort=)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=unity&sort=)
 [![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://github.com/fobos123deimos?tab=repositories&q=c)
 [![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=matlab&sort=)
 [![Wolfram](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolfram&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=wolfram&sort=)
@@ -58,32 +56,6 @@ My latest project focused on the development of an open-source scientific packag
 
 ---
 
-## 💻🎮 Game Development
-
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/f99e84c7-0521-4a6d-a00f-f5ad5ab9785c" style="margin-left: 250px; margin-bottom: 100px;">
-
-
-<div style="border: 1px solid #ccc; padding: 15px; margin: 15px 0; border-radius: 10px; background-color: #f9f9f9; text-align: left; max-width: 800px;">
-  I am the co-founder of an indie game and AI studio called <a href="https://beacons.ai/seafortress/home"><strong>SeaFortress</strong></a>, part of the <a href="https://www.linkedin.com/company/pepite-normandie/posts/?feedView=all"><strong>PEPITE Normandie Incubator</strong></a>.<br><br>
-
-  We develop indie games with a strong focus on integrating Artificial Intelligence into gameplay and mechanics. Our games are published on Steam, and we have participated twice in international indie game competitions.
-  <ul>
-    <li><a href="https://store.steampowered.com/agecheck/app/1956410/"><strong>EnjoyTyping (Steam)</strong></a></li>
-    <li><a href="https://www.youtube.com/watch?v=odeQ9Qs_zio&t=14s"><strong>FluffeyPanda's World (Gameplay)</strong></a></li>
-  </ul>
-
-  We're currently developing <a href="https://store.steampowered.com/app/2671760/Plinio_Needs_a_Hand/"><strong>Plinio Needs a Hand</strong></a>, the first game to use <strong>Unity Sentis</strong>, Unity’s AI library for Computer Vision. This game was showcased at:
-  <ul>
-    <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7176392039217934336/"><strong>GDC 2024</strong></a></li>
-    <li><a href="https://www.youtube.com/watch?v=7uU_TxSyINI&t=787s"><strong>Unity Channel (YouTube)</strong></a></li>
-    <li><a href="https://www.youtube.com/watch?v=T-sbHvDF6Bw&t=474s"><strong>Unity Unite</strong></a></li>
-  </ul>
-
-  I handle all AI-related aspects (Machine Learning and Deep Learning). Our philosophy is: <strong>"Strong Games with Smooth Gameplays"</strong>, and we believe that work should adapt to life, not the other way around.
-</div>
-
----
-
 ## 💻🧠 Artificial Intelligence and Data Science
 
 
@@ -91,6 +63,7 @@ My journey in Artificial Intelligence and Data Science blends research, applied 
 
 I specialize in:
 
+- ✅ Time-series ML: ECL% forecasting for bank budgeting (BACEN 4,966) using ARIMA/SARIMAX, Prophet, N-BEATS/N-HiTS, Autoformer/FEDformer.
 - ✅ **Risk Modeling and Validation**, including Credit Risk, Operational Risk, Market Risk, Microcredit, and Climate & Environmental Risk.
 - ✅ Development of **challenger models** using techniques like **MLP, XGBoost, LightGBM, XGBSE**, and clustering algorithms such as **KMeans, PAM, CLARA**.
 - ✅ Implementation of probabilistic models like **Value at Risk (VaR)** and **RAROC**.
