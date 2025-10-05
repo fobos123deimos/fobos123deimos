@@ -77,9 +77,13 @@ I specialize in:
 - *Smart Farming with Deep Neural Networks:* [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004428?via%3Dihub)  
 - *Trajectory Modeling via NLP:* [DOI](https://www.mdpi.com/1424-8220/22/19/7475) — [**Teach GitHub**](https://github.com/InsightLab/teach)  
 - *Deep Learning for Trajectory Classification:* [DOI](https://www.scitepress.org/Link.aspx?doi=10.5220/0010227906640671)  
-- *Neuroevolution for Game AI:* [DOI](https://www.sbgames.org/sbgames2019/files/papers/ComputacaoFull/198468.pdf)  
+- *Neuroevolution for Game AI:* [DOI](https://www.sbgames.org/sbgames2019/files/papers/ComputacaoFull/198468.pdf)
 
-This experience combines **academic rigor with real-world AI**, delivering solutions in **Machine Learning, NLP, Risk Modeling, Deep Learning, Data Science**, and **Model Governance**.
+## 🏅 Licenses & Certifications
+
+- [Credit Risk Modeling in Python — DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/34de9f07e7268931ae8867e14e583e1287d05728) · Aug 2025 · Credential ID: 42,185,742
+
+This experience combines **academic rigor with real-world AI**, delivering solutions in **Machine Learning, NLP, Forecast, Risk Modeling, Deep Learning, Data Science**, and **Model Governance**.
 
 ---
 
