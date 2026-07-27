@@ -8,14 +8,14 @@
 <h3 align="center">I'm a clear-thinking scientist, driven by exploration and consistent effort</h3>
 
 <p align="center">
-  <a href="https://matheuscordeiro.com">
+  <a href="https://fobos123deimos.github.io/">
     <img src="https://img.shields.io/badge/MC-Website-333333?style=for-the-badge&labelColor=333333" alt="Website Badge">
   </a>
   <a href="https://github.com/fobos123deimos/fobos123deimos/blob/main/MatheusCordeiroCv.pdf">
     <img src="https://img.shields.io/badge/-CV-D14836?style=for-the-badge&logo=ReadTheDocs&logoColor=white" alt="CV Badge">
   </a>
   <a href="https://www.linkedin.com/in/matheus-cordeiro-meng-453373ba/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin Badge">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://orcid.org/0000-0001-5318-5158">
     <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge">
@@ -34,14 +34,14 @@ I currently work as a **Data Scientist II**, developing forecasting and credit-m
 
 ### 🔥 I'm usually programming in one of these languages:
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=python&sort=)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=r&sort=)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square\&logo=latex\&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=latex)
-[![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=sql&sort=)
-[![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square\&logo=c\&logoColor=black)](https://github.com/fobos123deimos?tab=repositories&q=c)
-[![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square\&logo=mathworks\&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=matlab&sort=)
-[![Wolfram](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square\&logo=wolfram\&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=wolfram&sort=)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=arduino&sort=)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=python&sort=)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=r&sort=)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=latex)
+[![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=sql&sort=)
+[![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://github.com/fobos123deimos?tab=repositories&q=c)
+[![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=flat-square&logo=mathworks&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=matlab&sort=)
+[![Wolfram](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolfram&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=wolfram&sort=)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=arduino&sort=)
 [![ASM](https://img.shields.io/badge/Assembly-333333?style=flat-square)](https://github.com/fobos123deimos?tab=repositories&q=&type=&language=assembly&sort=)
 
 ## 💻⚛️ Computational Physics
