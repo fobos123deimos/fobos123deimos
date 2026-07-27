@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/fobos123deimos">
-    <img src="https://github.com/user-attachments/assets/fe0c163b-9fa3-4ec5-8e32-6fcc829a0fe1" alt="Radiação Eletromagnética">
+    <img
+      src="https://github.com/user-attachments/assets/fe0c163b-9fa3-4ec5-8e32-6fcc829a0fe1"
+      alt="Radiação Eletromagnética"
+    >
   </a>
 </p>
 
@@ -138,7 +141,7 @@ This experience combines **academic rigor with real-world AI**, delivering solut
   <a href="https://github.com/fobos123deimos">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=fobos123deimos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api?username=fobos123deimos&show_icons=true&theme=radical&include_all_commits=true&hide_border=true"
       alt="GitHub Stats"
     >
   </a>
@@ -146,7 +149,7 @@ This experience combines **academic rigor with real-world AI**, delivering solut
   <a href="https://github.com/fobos123deimos?tab=repositories">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fobos123deimos&layout=compact&langs_count=8&theme=radical&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=fobos123deimos&layout=compact&langs_count=8&theme=radical&hide_border=true"
       alt="Most Used Languages"
     >
   </a>
