@@ -41,10 +41,23 @@
       alt="ORCID Badge"
     >
   </a>
+
+  <a href="https://scholar.google.com/citations?user=mXfkiz4AAAAJ">
+    <img
+      src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"
+      alt="Google Scholar Badge"
+    >
+  </a>
 </p>
 
 ---
-<img align="right" width="310" alt="Coding" src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321" />
+
+<img
+  align="right"
+  width="310"
+  alt="Coding"
+  src="https://github.com/user-attachments/assets/30fd88cb-fd19-4753-be7b-69ec26549321"
+/>
 
 I'm a very communicative scientist who believes that this is a relevant virtue not only for research teams but also for development teams, as communication, for teamwork, is essential. However, I consider curiosity to be my fundamental characteristic and, like a good scientist, the effort within that curiosity 🔭🌱.
 
@@ -98,6 +111,39 @@ I specialize in:
 - *Trajectory Modeling via NLP:* [DOI](https://www.mdpi.com/1424-8220/22/19/7475) — [**Teach GitHub**](https://github.com/InsightLab/teach)
 - *Deep Learning for Trajectory Classification:* [DOI](https://www.scitepress.org/Link.aspx?doi=10.5220/0010227906640671)
 - *Neuroevolution for Game AI:* [DOI](https://www.sbgames.org/sbgames2019/files/papers/ComputacaoFull/198468.pdf)
+
+---
+
+## 📚 Academic Impact
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=mXfkiz4AAAAJ">
+    <img
+      src="https://img.shields.io/badge/Citations-145-FF3B8D?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=141321"
+      alt="Google Scholar Citations"
+    >
+  </a>
+
+  <a href="https://scholar.google.com/citations?user=mXfkiz4AAAAJ">
+    <img
+      src="https://img.shields.io/badge/H%20index-4-FF3B8D?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=141321"
+      alt="Google Scholar h-index"
+    >
+  </a>
+
+  <a href="https://scholar.google.com/citations?user=mXfkiz4AAAAJ">
+    <img
+      src="https://img.shields.io/badge/i10%20index-4-FF3B8D?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=141321"
+      alt="Google Scholar i10-index"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=mXfkiz4AAAAJ">
+    View my publications and citation history on Google Scholar
+  </a>
+</p>
 
 ---
 
