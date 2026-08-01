@@ -147,6 +147,60 @@ I specialize in:
 
 ---
 
+## 📈 Master's Dissertation Impact
+
+My master's dissertation presents the research behind **Fast Wave**, an open-source Python package developed for the efficient and accurate computation of Fock-state wavefunctions.
+
+The complete dissertation is publicly available through the Institutional Repository of the Federal University of Ceará.
+
+<p align="center">
+  <a href="https://repositorio.ufc.br/handle/riufc/80727">
+    <img
+      src="https://img.shields.io/badge/Master's%20Dissertation-Fast%20Wave-008C95?style=for-the-badge"
+      alt="Fast Wave Master's Dissertation"
+    >
+  </a>
+
+  <a href="https://repositorio.ufc.br/handle/riufc/80727/statistics">
+    <img
+      src="https://img.shields.io/badge/UFC%20Repository-Live%20Statistics-FF3B8D?style=for-the-badge&labelColor=141321"
+      alt="UFC Repository Statistics"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://repositorio.ufc.br/handle/riufc/80727/statistics">
+    <img
+      width="760"
+      src="./assets/dissertation-statistics/visits-per-month.png"
+      alt="Monthly visits to the Fast Wave master's dissertation"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    Monthly access statistics for the dissertation in the UFC Institutional Repository.
+  </em>
+</p>
+
+<p align="center">
+  <a href="https://repositorio.ufc.br/handle/riufc/80727">
+    Read the dissertation
+  </a>
+  •
+  <a href="https://repositorio.ufc.br/handle/riufc/80727/statistics">
+    View complete and updated statistics
+  </a>
+</p>
+
+<p align="center">
+  <sub>Statistics snapshot updated in August 2026.</sub>
+</p>
+
+---
+
 ## 🏅 Licenses & Certifications
 
 ### Learning Track
