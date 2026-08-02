@@ -205,25 +205,25 @@ The complete dissertation is publicly available through the Institutional Reposi
 
 ### Learning Track
 
-- **Data Analysis in Databricks** — DataCamp
+- [**Data Analysis in Databricks** — DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/4b45c8492d71a469535ff59cda36eaf34f4715ae)
 
 ### Professional Courses
 
-- **Data Management in Databricks** — DataCamp
-- **Databricks Concepts** — DataCamp
-- **Introduction to Databricks** — DataCamp
-- **Data Visualization in Databricks** — DataCamp
+- [**Data Management in Databricks** — DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/7038af44b92e45fa77ffc3a6be432a0c31c058b7)
+- [**Databricks Concepts** — DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/6b93c21a6387de246f4eef2e0bf47a20b702c503)
+- [**Introduction to Databricks** — DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/c03152827108be5c8c5dda2f4e944bdd5bb0a7a1)
+- [**Data Visualization in Databricks** — DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/b8b00d44fce5193b6249d7658635367fc0a3cd05)
 - [**Credit Risk Modeling in Python** — DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/34de9f07e7268931ae8867e14e583e1287d05728) · Aug 2025 · Credential ID: 42,185,742
 
 ### Professional Accreditations
 
-- **Academy Accreditation — Databricks Fundamentals**
-- **NVIDIA Fundamentals of Deep Learning**
+- [**Academy Accreditation — Databricks Fundamentals**](https://credentials.databricks.com/8291ace7-008f-4d56-8b65-5b114a667530)
+- [**NVIDIA Fundamentals of Deep Learning**](https://drive.google.com/file/d/1HmTrFj7hCGfiwPaug9-z1YmEUxFtIBae/view?usp=sharing)
 
 ### Scientific Credentials
 
-- **Certificate of Publication — Sensors**
-- **Certificate of Publication — Future Generation Computer Systems**
+- [**Certificate of Publication — Sensors**](https://drive.google.com/file/d/11YJRMNsRngEp8_W4rK8Kbde_cU0Oq6MK/view?usp=sharing)
+- [**Certificate of Publication — Future Generation Computer Systems**](https://drive.google.com/file/d/1bqJS_CVru5iCa-KbdriMGVAtKDmXT3Fq/view)
 
 This experience combines **academic rigor with real-world AI**, delivering solutions in **Machine Learning, NLP, Forecasting, Risk Modeling, Deep Learning, Data Science**, and **Model Governance**.
 
